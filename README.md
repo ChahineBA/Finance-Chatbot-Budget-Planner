@@ -28,6 +28,11 @@ Welcome to the **Finance Chatbot Budget Planner**! 🎉 Your personal financial 
    ```bash
    pip install -r requirements.txt
   ```
+Add Your Gemini API Key:
+Create a .env file in the root directory and add your Gemini API key under the name GOOGLE_API_KEY:
+```makefile
+   GOOGLE_API_KEY=your_api_key_here
+   ```
   Run the Bot:
   Finally, start the chatbot by running:
    ```bash
