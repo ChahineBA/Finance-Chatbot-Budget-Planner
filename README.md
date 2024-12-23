@@ -22,10 +22,12 @@ Welcome to the **Finance Chatbot Budget Planner**! 🎉 Your personal financial 
    In your terminal, run:
    ```bash
    python -m venv venv
+   ```
   Install Dependencies:
   Use the following command to install the required packages:
    ```bash
    pip install -r requirements.txt
+  ```
   Run the Bot:
   Finally, start the chatbot by running:
    ```bash
